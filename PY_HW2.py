@@ -41,6 +41,9 @@
 #     for y in range(multiplication):
 #         if (x*y)==multiplication and (x+y)==sum:
 #             print(x,y)
+#         else:
+#             print('Вы ввели неверные значения')
+            
             
 ## Как вывести пользователю об ошибке введеных данных, если x и y не определяются?
 
